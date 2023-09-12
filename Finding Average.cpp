@@ -1,8 +1,11 @@
 //Finding Average
 //Project 1
+// Header File
 #include<iostream>
+//standardization
 using namespace std;
 //This code is used to find average
+//main function
 int main(){
 	int m1,m2,m3,m4,m5;
 	cout<<"Enter marks of Student";
