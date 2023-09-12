@@ -14,7 +14,7 @@ int main(){
 	float avg = (float)sum/5;
 	cout<<"Average is : "<<avg;
 	float avg1 = (float)((m1+m2+m3+m4+m5))/5;
-	cout<<"Average is : "<<avg1;
+	cout<<"Average marks of student : "<<avg1;
 	return 0;
 }
 
