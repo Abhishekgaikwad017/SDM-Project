@@ -2,7 +2,7 @@
 //Project 1
 #include<iostream>
 using namespace std;
-
+//This code is used to find average
 int main(){
 	int m1,m2,m3,m4,m5;
 	cout<<"Enter marks of Student";
