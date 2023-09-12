@@ -17,6 +17,6 @@ int main(){
 	cout<<"Average marks of student : "<<avg1;
 	return 0;
 }
-
+//code is working properly
 
 
