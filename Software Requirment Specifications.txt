@@ -4,7 +4,7 @@
 System Requirement Specification Document
 
 ## Title:
-System Reqruiement Spefication for Online Assesssment Portal For CDAC.
+System Requirement Spefication for Online Assesssment Portal For CDAC.
 
 ## Objective (Purpose):
 The online assessment portal for CDAC Web Applictaion is intended to  provide complete solution for students, faculty members as well as internal users (Staff/Administration) through  a single Gateway . It will enable everybody related to CDAC to access student exam detail, login page and payment gateway  to enrol in CADC.
