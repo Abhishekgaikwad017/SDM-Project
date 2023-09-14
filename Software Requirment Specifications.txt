@@ -27,11 +27,18 @@ They can also change or altered their choice option in their given timing.
 User can also have option switch to next or previous question. The attempted question is marked as green and un-attempted as grey.
 The user can jump on any question by click on the list of number of question.
 The user can submit their exam at any point in their time.
+Faculty has authorised login credentials can set the MCQ.
+The database is accessible to authorized faculty to create the MCQ question. They can create as many as MCQ and store on database and can only viewed only by authorised faculty.
+The data base is to store all the user submitted questions.
+The Faculty can also view who have attempted the assessment exam.
+The copy of submitted MCQ of every student is available to faculty. 
+IT administration can schedule the exam on given date and time.
+The user can login to assessment can login between the giving timing.
+The assessment exam is get submitted automatically when given the time is over. 
+The user are not to assess other pages in middle of assessment.
+The copied of right, wrong and not attempted question is made available to the faculty.
+The rank and marks of student can be seen by authorised faculty only.
 
-
-User –login credential, rules and regulation, start exam ,exam timer, list of mcq , only one option choice , attempted question, next and previous, camera and microphone access, submit exam,
-Faculty – question bank, mcq sets, copy of exam marksheet of student , the right and wrong attempted, maximum limit of question
-IT admistration – schedule , security , traffic handling, providing technical service,  student who given the assessment exam list, rank and result,
 
 
 ## Non Functional Requirements
