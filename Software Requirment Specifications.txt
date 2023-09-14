@@ -34,3 +34,9 @@ The portal should be free of technical glitches , downtime, and server issues th
 
 ### Availability
 Uptime: Assessment duration (3-4 hrs).
+
+### Maintainability:
+-A Commercial database software will be used to maintain System data Persistence.
+-A readymade Web Server will be used to host online assessment portal to management server capabilities.
+-Separate enviornment will be maintained for isolation of candidate's, faculty's and IT administration team's level access.
+
