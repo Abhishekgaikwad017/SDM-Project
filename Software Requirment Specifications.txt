@@ -20,7 +20,7 @@ The System will be able to show marks after the evaluation of results.
 
 ## Functional Requirements:
 
-The user having valid login id password able to access the assessment portal .  After login user  gets the page of rules and regulation for the assessment exam. Then they can start the exam.
+The user having valid login id password able to access the assessment portal .After login user  gets the page of rules and regulation for the assessment exam. Then they can start the exam.
 Login user can view the timer on the top right corner screen. They can also view the list of question they are attempting.    
 One mcq is displayed to the user. They can select one of the options of their own choice.
 They can also change or altered their choice option in their given timing.
