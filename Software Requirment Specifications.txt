@@ -20,9 +20,19 @@ The System will be able to show marks after the evaluation of results.
 
 ## Functional Requirements:
 
-Any Registered Candidate will be able to register for exam, can view the preparatory resources for the exams, can download the Exam Hall Ticket and can view scores and ranks after the successfull evaluation is done.
-Administration will be able to monitor each and every activity of the registered candidate.
-Anyone making an extra entry will be given a warning once.
+The user having valid login id password able to access the assessment portal .  After login user  gets the page of rules and regulation for the assessment exam. Then they can start the exam.
+Login user can view the timer on the top right corner screen. They can also view the list of question they are attempting.    
+One mcq is displayed to the user. They can select one of the options of their own choice.
+They can also change or altered their choice option in their given timing.
+User can also have option switch to next or previous question. The attempted question is marked as green and un-attempted as grey.
+The user can jump on any question by click on the list of number of question.
+The user can submit their exam at any point in their time.
+
+
+User –login credential, rules and regulation, start exam ,exam timer, list of mcq , only one option choice , attempted question, next and previous, camera and microphone access, submit exam,
+Faculty – question bank, mcq sets, copy of exam marksheet of student , the right and wrong attempted, maximum limit of question
+IT admistration – schedule , security , traffic handling, providing technical service,  student who given the assessment exam list, rank and result,
+
 
 ## Non Functional Requirements
 ### Technical Stability:
