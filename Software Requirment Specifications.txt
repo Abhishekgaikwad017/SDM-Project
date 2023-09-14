@@ -1,2 +1,6 @@
-Hello,
-We will be creating a Software Requirment Specifications file for an E-commerce Platform for our client Vijay Sales.
+Software requirements specifications:
+
+1) User friendly and hihgly interactive and should be responsive.
+
+2)all products should be classified into different categories.
+
