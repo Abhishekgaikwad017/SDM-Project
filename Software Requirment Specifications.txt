@@ -4,3 +4,5 @@ Software requirements specifications:
 
 2)all products should be classified into different categories.
 
+1.Inrtroduction
+1.1 Purpose 
