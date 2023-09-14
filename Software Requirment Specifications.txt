@@ -6,6 +6,10 @@ This System allows Students to give thier exams in a very convinient way.
 Faculty Members and Exam Co-ordinators will be able to conduct exams in a very proper and secure way as there will be only a single page visible while exam timing and if anyone tries to do cheating by switching the tabs, exam will be concluded for that student.
 The System will be able to show marks after the evaluation of results.
 
+## Definitions:
+	CDAC: Center For Development of Advanced Computing
+	MCQ: Multiple Choice Quetion
+
 ## Functional Requirements:
 
 Any Registered Candidate will be able to register for exam, can view the preparatory resources for the exams, can download the Exam Hall Ticket and can view scores and ranks after the successfull evaluation is done.
