@@ -13,7 +13,7 @@ Administration will be able to monitor each and every activity of the registered
 Anyone making an extra entry will be given a warning once.
 
 ## Non Functional Requirements
-## Technical Stability:
+### Technical Stability:
 The portal should be free of technical glitches , downtime, and server issues that could disrupt the assessment process and admission process.
 
 ### Security
