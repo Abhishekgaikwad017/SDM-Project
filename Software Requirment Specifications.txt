@@ -44,3 +44,6 @@ Uptime: Assessment duration (3-4 hrs).
 -A readymade Web Server will be used to host online assessment portal to management server capabilities.
 -Separate enviornment will be maintained for isolation of candidate's, faculty's and IT administration team's level access.
 
+### Portablility:
+-The assessment portal will be created using web developement technologies (HTML, CSS, JS). The portal will be created in a non responsive manner. It will only be responsive in devices with width greater than 768px.
+-System can be deployed to single server.
