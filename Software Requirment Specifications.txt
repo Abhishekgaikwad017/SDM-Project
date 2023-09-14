@@ -15,7 +15,7 @@ Anyone making an extra entry will be given a warning once.
 ## Non Functional Requirements
 ## Technical Stability:
 The portal should be free of technical glitches , downtime, and server issues that could disrupt the assessment process and admission process.
-### Security
+
 ### Security
 -Only registered candidates and authorised personels will be allowed to access the assessment portal.	
 -Each candidate will be to access system  through authentication process. 
