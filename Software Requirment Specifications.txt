@@ -11,3 +11,18 @@ The System will be able to show marks after the evaluation of results.
 Any Registered Candidate will be able to register for exam, can view the preparatory resources for the exams, can download the Exam Hall Ticket and can view scores and ranks after the successfull evaluation is done.
 Administration will be able to monitor each and every activity of the registered candidate.
 Anyone making an extra entry will be given a warning once.
+
+## Non Functional Requirements
+### Security
+### Security
+-Only registered candidates and authorised personels will be allowed to access the assessment portal.	
+-Each candidate will be to access system  through authentication process. 
+-System will provide access to the portal operations using Role based security. Authorization level will decide the level of access.
+-Using encrypted link between server-side and client-side the data will be shared and stored on the database server. This would protect confidential information of assessment system and database server.
+-System will automatically log out after the completion of the time duration provided for the assessment and the data will be submitted and stored automatically.
+-System  will internally maintain secure communication channel between Servers.
+-Use proper firewall to protect servers from out-side fishing, velnerable attacks.
+-The portal will not authenticate the user to minimize the assessment window, shift tabs or to open any other applications(desktop, web).
+-The portal will also request and access the user's system camera and microphone in order to record and store all the activities during assessment duration.
+-The portal will also monitor the user's surrounding activites, detecting any other personel invading the view-range of the system camera or any type of unwanted noise. If detected, the system will flash 3 warnings before immediate termination of the assessment portal. In such case the data will be autostored.
+
