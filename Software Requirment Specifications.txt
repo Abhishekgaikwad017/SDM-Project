@@ -28,6 +28,10 @@ The portal should be free of technical glitches , downtime, and server issues th
 -The portal will also request and access the user's system camera and microphone in order to record and store all the activities during assessment duration.
 -The portal will also monitor the user's surrounding activites, detecting any other personel invading the view-range of the system camera or any type of unwanted noise. If detected, the system will flash 3 warnings before immediate termination of the assessment portal. In such case the data will be autostored.
 
+## Scalability: The portal should be able to handle a large number of users without performance degradation. Huge amount of students attends exam then their assessment data is equivalent to previous years.
+
+## Consistency: The assessment quetions and scoring methods should be consistent over time to ensure fairness and reliability in evaluating candidates.
+
 ### Reliability
 -The system will share and store assessment data after being submitted by the candidate and store the data on the database server. 
 -During assessment hours system will maintain same user experience for all the candidates.
