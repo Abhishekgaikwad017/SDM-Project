@@ -59,3 +59,8 @@ Uptime: Assessment duration (3-4 hrs).
 ### Portablility:
 -The assessment portal will be created using web developement technologies (HTML, CSS, JS). The portal will be created in a non responsive manner. It will only be responsive in devices with width greater than 768px.
 -System can be deployed to single server.
+
+### Safety:	
+-Use proper firewall to protect servers from out-side fishing, velnerable attacks.
+-Database Server will be always kept updated.
+-Role based security will be applied for Application data and operations accessibility.
