@@ -1,5 +1,5 @@
 ## Objective (Purpose):
-The online assessment portal for CDAC Web Applictaion is intended to  provide complete solution for students, faculty members as well as internal users (Staff/Administration) through  a single Gateway using internet. It will enable everybody related to CDAC to access study material, conduct exams, prepare for exams to browse through virtual labs and administrate the curriculum through virtual as well as physical mode.
+The online assessment portal for CDAC Web Applictaion is intended to  provide complete solution for students, faculty members as well as internal users (Staff/Administration) through  a single Gateway . It will enable everybody related to CDAC to access student exam detail, login page and payment gateway  to enrol in CADC.
 
 ##Scope:
 This System allows Students to give thier exams in a very convinient way.
