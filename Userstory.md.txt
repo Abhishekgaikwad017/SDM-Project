@@ -1,0 +1,29 @@
+1.	As a student, I need to authenticate myself, so than I can attempt my assessment.
+2.	As a sign-in student, I need to view the list of question, so that I can attempt the question.
+3.	As a student, I need to view my multiple option of question, so I can select only one of them.
+4.	As a student, I need to view all list of question, so that I can see how many questions I have to attempt.
+5.	As a student, I need to have a timer, so that I can know how much time is remaining.
+6.	As a student, I need to next and previous button, so that I can switch to other question.
+7.	As a student, I need to see whether my camera and microphone is working, so that I ensure there is no problem. 
+8.	As a student, I need to have a clear button, so that I can unselect my choice of answer.
+9.	As a student, I need to have a submit button, so that I can submit my exam.
+10.	As an Exam Management Team, I want to able to generate unique ID so that if any student gets logout by mistake, so that he will be able to redirect to his leftover state.
+11.	As a student, I want to able to give feedback at the end of exam so that I can give suggestions.
+12.	As a student, I want to able to report question If there is a mistake in question options so that I can report that question.
+13.	As exam management, I want to have responsive page, so that candidate can complete my exam without any problem.
+14.	As an exam management team, I should be notified for the feedbacks and reports that have generated from students side so that I can review/rectify the 	questions.
+15.	As an Exam management, I want to display the name and login id to be displayed after student login.
+16.	As an exam management team, I want safe and secure student exam data analysis and storage system so that the students get the genuine report of their 	performance in the examination.
+17.	As an exam management team, I want to able to shuffle questions for each student so that I can prevent malicious practice.
+18.	As an Exam Management Team, I want to able to store the option selected by student for the respective question in database so that data stored will be easy 	to navigate while result evaluation.
+19.	As an Exam Management Team, I want to able to generate unique ID so that if any student gets logout by mistaken, so that he will be able to redirect to his leftover 	state.
+20.	As an Exam management team, I need authority so that no student should be able to login before the scheduled time.
+21.	As an exam management team, I want to able to view how many students have logged in for the exam so that I'll get to know how many students.
+22.	As a cyber security team, I want to able to add security features including firewall so that I would be able to protect servers from phishing and vulnerable attacks.
+23.	As an Exam management, I need different data base, so that I can arrange MCQ question for different subject/module.
+24.	As an Exam management, I need data base to store all the submitted solution respective to their module.
+25.	As an exam management team, I want AI based audio and video proctored system so that we can prevent malicious acts during exam and get genuine result.
+
+
+
+
