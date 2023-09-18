@@ -23,7 +23,3 @@
 23.	As an Exam management, I need different data base, so that I can arrange MCQ question for different subject/module.
 24.	As an Exam management, I need data base to store all the submitted solution respective to their module.
 25.	As an exam management team, I want AI based audio and video proctored system so that we can prevent malicious acts during exam and get genuine result.
-
-
-
-
