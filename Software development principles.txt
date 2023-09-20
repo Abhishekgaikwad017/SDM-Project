@@ -1,0 +1,30 @@
+SOLID Principles:-
+- Set of 5 design principles.
+ S - Single Responsibility Principle
+ O - Open - Closed Principle
+ L - Liskov Substitution principle
+ I - Interface Segregation Principle
+ D - Dependency Inversion Principle
+
+1) Single Responsibility Principle:-
+	This principle states that a class, module or function must have one thing to be executed.
+	This principle makes the code more readable and maintainable.
+	Anyone new trying to understand the code, will be able to understand quickly whats going on in that code.
+
+2) Open - Closed Principle:-
+	This principle states that classes, modules and functions should be open for extension but closed for modification.
+	One can be able to extend the functionality of a class, module or function by adding more code without modifying existing code.
+
+3) Liskov Substituion principle:-
+	The principle states that child classes or subclasses must be substitutable for their parent classes or super classes.
+
+4)Interface Segregation Principle:-
+	This principl states that, the large interface should be break down into smaller interfaces, so that clients only need to depend on interfaces that are relevant to them.
+	Similar to Single Responsibilty Principle.
+	Its breaking the whole codebase into multiple interfaces or components.
+
+5)Dependemcy inversion Principle:-
+	All about decoupling software modules.
+
+
+
